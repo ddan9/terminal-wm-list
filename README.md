@@ -1,7 +1,7 @@
 # terminal-wm-list
-Public list of terminal/tty/cli based window managers
+Public list of terminal/tty/cli based window managers and some useful additional tools
 
-Might be used as fully workable desktop/window environent (especially with gpm)
+Might be used as fully workable desktop/window environment (especially with gpm). 
 
 <br />
 
@@ -39,6 +39,14 @@ Might be used as fully workable desktop/window environent (especially with gpm)
 | --- | --- |
 | emptty | dm |
 | ly | dm |
+
+#### Session Manager List:
+- soon
+
+<br />
+
+#### Terminal Emulator List:
+- soon
 
 <br />
 
