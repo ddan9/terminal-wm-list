@@ -40,6 +40,8 @@ Might be used as fully workable desktop/window environment (especially with gpm)
 | emptty | dm |
 | ly | dm |
 
+<br />
+
 #### Session Manager List:
 - soon
 
