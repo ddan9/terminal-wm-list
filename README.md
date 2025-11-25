@@ -13,10 +13,10 @@ Might be used as fully workable desktop/window environment (especially with gpm)
 | byobu | tiling |
 | cosmos72/twin | stack |
 | xtermwm | stack |
+| tvision | stack |
 | martanne/dvtm | tiling |
 | mtm | tiling |
 | desktop-tui | mixed |
-| tvision | stack |
 | winman | ? |
 | tinywm | ? |
 | zellij | tiling |
