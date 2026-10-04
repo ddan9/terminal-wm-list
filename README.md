@@ -71,5 +71,7 @@ Might be used as fully workable desktop/window environment (especially with gpm)
 
 #### For test:
 - ratpoison
+- [https://github.com/unxed/dn](dn)
+- [https://github.com/ddanila/vc](vc)
 
 <br />
